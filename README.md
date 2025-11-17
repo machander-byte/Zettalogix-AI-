@@ -11,7 +11,7 @@ It simulates ChatGPT-like interaction through streaming text responses, enabling
 
 Tech Stack
 
-Frontend:
+##Frontend:
 - Framework: Next.js (React-based)
 - Styling: Tailwind CSS
 - UI Components: Assistant UI + ShadCN UI
